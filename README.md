@@ -8,7 +8,7 @@ Replace the cstrike folder in you CS gamefile with this folder. Merge the files 
 
 MODS:
 
-BOTS (original CS 1.6 didn't had any bots)
-Deathmatch
-Weapons
-Skine
+BOTS (original CS 1.6 didn't had any bots);
+Deathmatch;
+Weapons;
+Skins.
