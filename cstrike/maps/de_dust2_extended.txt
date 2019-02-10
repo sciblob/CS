@@ -1,0 +1,36 @@
+Dust II Extended - Bomb/Defuse
+
+Extended by Alfa1337
+
+Counter-Terrorists: Prevent Terrorists
+from bombing chemical weapon crates.
+Team members must defuse any bombs 
+that threaten targeted areas.
+
+Terrorists: The Terrorist carrying the
+C4 must destroy one of the chemical 
+weapon stashes. 
+
+Other Notes: There are 2 chemical 
+weapon stashes in the mission.
+
+-- Update --
+----------------------------
+ 1.2 - Decemeber 24, 2018
+----------------------------
+
+- Fix A Long Ramp (below the A sniper nest) Light Tube
+- Reduced some box size by 10-20%
+- Fixed the texture for the breakable doorways
+- The breakable doorways are now thinner
+- Altered the T-spawn sniper wall into an arch
+- Remove a sky brush on the T-spawn open arch
+- Add map overview (not really accurate)
+
+----------------------------
+ 1.1 - November 29, 2018
+----------------------------
+
+- The light tubes are now Constant Glow and Solid
+- The light tubes are now using White texture, instead of light (not sure why it is not working)
+- Fix Site A Ramp
