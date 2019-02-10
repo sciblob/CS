@@ -1,0 +1,264 @@
+L 01/31/2019 - 01:41:54: -------- Mapchange to de_dust --------
+L 01/31/2019 - 01:41:54: [AMXX] Plugin "cso_magnumbolt_zp_extra.amxx" failed to load: Plugin uses an unknown function (name "zp_register_extra_item") - check your modules.ini.
+L 01/31/2019 - 01:41:54: [AMXX] Plugin "CSO_RailCannon_2014.amxx" failed to load: Plugin uses an unknown function (name "write_coord_f") - check your modules.ini.
+L 01/31/2019 - 01:41:54: [AMXX] Plugin "zp_extra_at4cs.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_survivor") - check your modules.ini.
+L 01/31/2019 - 01:41:55: [csdm_spawn_preset.amxx] Loaded 32 spawn points for map de_dust.
+L 01/31/2019 - 01:41:55: [csdm_main.amxx] CSDM spawn mode set to preset
+L 01/31/2019 - 01:41:55: [admin.amxx] Login: "yellowHearts<1><STEAM_0:0:787808286><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 01/31/2019 - 01:41:56: [admin.amxx] Login: "yellowHearts<1><STEAM_0:0:787808286><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 01/31/2019 - 01:48:17: -------- Mapchange to de_dust --------
+L 01/31/2019 - 01:48:17: [AMXX] Plugin "cso_magnumbolt_zp_extra.amxx" failed to load: Plugin uses an unknown function (name "zp_register_extra_item") - check your modules.ini.
+L 01/31/2019 - 01:48:17: [AMXX] Plugin "CSO_RailCannon_2014.amxx" failed to load: Plugin uses an unknown function (name "write_coord_f") - check your modules.ini.
+L 01/31/2019 - 01:48:17: [AMXX] Plugin "zp_extra_at4cs.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_survivor") - check your modules.ini.
+L 01/31/2019 - 01:48:18: [csdm_spawn_preset.amxx] Loaded 32 spawn points for map de_dust.
+L 01/31/2019 - 01:48:18: [csdm_main.amxx] CSDM spawn mode set to preset
+L 01/31/2019 - 01:48:18: [admin.amxx] Login: "yellowHearts<1><STEAM_0:0:787808286><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 01/31/2019 - 01:48:19: [admin.amxx] Login: "yellowHearts<1><STEAM_0:0:787808286><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 01/31/2019 - 01:51:24: -------- Mapchange to de_dust --------
+L 01/31/2019 - 01:51:24: [AMXX] Plugin "cso_magnumbolt_zp_extra.amxx" failed to load: Plugin uses an unknown function (name "zp_register_extra_item") - check your modules.ini.
+L 01/31/2019 - 01:51:24: [AMXX] Plugin "CSO_RailCannon_2014.amxx" failed to load: Plugin uses an unknown function (name "write_coord_f") - check your modules.ini.
+L 01/31/2019 - 01:51:24: [AMXX] Plugin "zp_extra_at4cs.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_survivor") - check your modules.ini.
+L 01/31/2019 - 01:51:25: [csdm_spawn_preset.amxx] Loaded 32 spawn points for map de_dust.
+L 01/31/2019 - 01:51:25: [csdm_main.amxx] CSDM spawn mode set to preset
+L 01/31/2019 - 01:51:26: [admin.amxx] Login: "yellowHearts<1><STEAM_0:0:787808286><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 01/31/2019 - 01:51:27: [admin.amxx] Login: "yellowHearts<1><STEAM_0:0:787808286><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 01/31/2019 - 01:58:09: -------- Mapchange to de_dust --------
+L 01/31/2019 - 01:58:09: [AMXX] Plugin "cso_magnumbolt_zp_extra.amxx" failed to load: Plugin uses an unknown function (name "zp_register_extra_item") - check your modules.ini.
+L 01/31/2019 - 01:58:09: [AMXX] Plugin "CSO_RailCannon_2014.amxx" failed to load: Plugin uses an unknown function (name "write_coord_f") - check your modules.ini.
+L 01/31/2019 - 01:58:09: [AMXX] Plugin "zp_extra_at4cs.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_survivor") - check your modules.ini.
+L 01/31/2019 - 01:58:10: [csdm_spawn_preset.amxx] Loaded 32 spawn points for map de_dust.
+L 01/31/2019 - 01:58:10: [csdm_main.amxx] CSDM spawn mode set to preset
+L 01/31/2019 - 01:58:10: [admin.amxx] Login: "yellowHearts<1><STEAM_0:0:787808286><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 01/31/2019 - 01:58:11: [admin.amxx] Login: "yellowHearts<1><STEAM_0:0:787808286><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 01/31/2019 - 02:44:31: -------- Mapchange to de_dust --------
+L 01/31/2019 - 02:44:31: [AMXX] Plugin "cso_magnumbolt_zp_extra.amxx" failed to load: Plugin uses an unknown function (name "zp_register_extra_item") - check your modules.ini.
+L 01/31/2019 - 02:44:31: [AMXX] Plugin "CSO_RailCannon_2014.amxx" failed to load: Plugin uses an unknown function (name "write_coord_f") - check your modules.ini.
+L 01/31/2019 - 02:44:31: [AMXX] Plugin "zp_extra_at4cs.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_survivor") - check your modules.ini.
+L 01/31/2019 - 02:44:32: [csdm_spawn_preset.amxx] Loaded 32 spawn points for map de_dust.
+L 01/31/2019 - 02:44:32: [csdm_main.amxx] CSDM spawn mode set to preset
+L 01/31/2019 - 02:44:36: [admin.amxx] Login: "yellowHearts<1><STEAM_0:0:787808286><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 01/31/2019 - 02:44:37: [admin.amxx] Login: "yellowHearts<1><STEAM_0:0:787808286><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 01/31/2019 - 02:44:43: -------- Mapchange to de_dust --------
+L 01/31/2019 - 02:44:43: [AMXX] Plugin "cso_magnumbolt_zp_extra.amxx" failed to load: Plugin uses an unknown function (name "zp_register_extra_item") - check your modules.ini.
+L 01/31/2019 - 02:44:43: [AMXX] Plugin "CSO_RailCannon_2014.amxx" failed to load: Plugin uses an unknown function (name "write_coord_f") - check your modules.ini.
+L 01/31/2019 - 02:44:43: [AMXX] Plugin "zp_extra_at4cs.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_survivor") - check your modules.ini.
+L 01/31/2019 - 02:44:43: [csdm_spawn_preset.amxx] Loaded 32 spawn points for map de_dust.
+L 01/31/2019 - 02:44:43: [csdm_main.amxx] CSDM spawn mode set to preset
+L 01/31/2019 - 02:44:46: [admin.amxx] Login: "yellowHearts<10><STEAM_0:0:787808286><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 01/31/2019 - 02:44:47: [admin.amxx] Login: "yellowHearts<10><STEAM_0:0:787808286><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 01/31/2019 - 02:45:05: -------- Mapchange to de_dust --------
+L 01/31/2019 - 02:45:05: [AMXX] Plugin "cso_magnumbolt_zp_extra.amxx" failed to load: Plugin uses an unknown function (name "zp_register_extra_item") - check your modules.ini.
+L 01/31/2019 - 02:45:05: [AMXX] Plugin "CSO_RailCannon_2014.amxx" failed to load: Plugin uses an unknown function (name "write_coord_f") - check your modules.ini.
+L 01/31/2019 - 02:45:05: [AMXX] Plugin "zp_extra_at4cs.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_survivor") - check your modules.ini.
+L 01/31/2019 - 02:45:06: [csdm_spawn_preset.amxx] Loaded 32 spawn points for map de_dust.
+L 01/31/2019 - 02:45:06: [csdm_main.amxx] CSDM spawn mode set to preset
+L 01/31/2019 - 02:45:09: [admin.amxx] Login: "yellowHearts<1><STEAM_0:0:787808286><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 01/31/2019 - 02:45:10: [admin.amxx] Login: "yellowHearts<1><STEAM_0:0:787808286><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 01/31/2019 - 02:45:19: -------- Mapchange to de_dust --------
+L 01/31/2019 - 02:45:19: [AMXX] Plugin "cso_magnumbolt_zp_extra.amxx" failed to load: Plugin uses an unknown function (name "zp_register_extra_item") - check your modules.ini.
+L 01/31/2019 - 02:45:19: [AMXX] Plugin "CSO_RailCannon_2014.amxx" failed to load: Plugin uses an unknown function (name "write_coord_f") - check your modules.ini.
+L 01/31/2019 - 02:45:19: [AMXX] Plugin "zp_extra_at4cs.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_survivor") - check your modules.ini.
+L 01/31/2019 - 02:45:19: [csdm_spawn_preset.amxx] Loaded 32 spawn points for map de_dust.
+L 01/31/2019 - 02:45:19: [csdm_main.amxx] CSDM spawn mode set to preset
+L 01/31/2019 - 02:45:22: [admin.amxx] Login: "yellowHearts<10><STEAM_0:0:787808286><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 01/31/2019 - 02:45:23: [admin.amxx] Login: "yellowHearts<10><STEAM_0:0:787808286><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 01/31/2019 - 02:46:02: -------- Mapchange to de_dust --------
+L 01/31/2019 - 02:46:02: [AMXX] Plugin "cso_magnumbolt_zp_extra.amxx" failed to load: Plugin uses an unknown function (name "zp_register_extra_item") - check your modules.ini.
+L 01/31/2019 - 02:46:02: [AMXX] Plugin "CSO_RailCannon_2014.amxx" failed to load: Plugin uses an unknown function (name "write_coord_f") - check your modules.ini.
+L 01/31/2019 - 02:46:02: [AMXX] Plugin "zp_extra_at4cs.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_survivor") - check your modules.ini.
+L 01/31/2019 - 02:46:03: [csdm_spawn_preset.amxx] Loaded 32 spawn points for map de_dust.
+L 01/31/2019 - 02:46:03: [csdm_main.amxx] CSDM spawn mode set to preset
+L 01/31/2019 - 02:46:28: -------- Mapchange to de_dust --------
+L 01/31/2019 - 02:46:28: [AMXX] Plugin "cso_magnumbolt_zp_extra.amxx" failed to load: Plugin uses an unknown function (name "zp_register_extra_item") - check your modules.ini.
+L 01/31/2019 - 02:46:28: [AMXX] Plugin "CSO_RailCannon_2014.amxx" failed to load: Plugin uses an unknown function (name "write_coord_f") - check your modules.ini.
+L 01/31/2019 - 02:46:28: [AMXX] Plugin "zp_extra_at4cs.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_survivor") - check your modules.ini.
+L 01/31/2019 - 02:46:29: [csdm_spawn_preset.amxx] Loaded 32 spawn points for map de_dust.
+L 01/31/2019 - 02:46:29: [csdm_main.amxx] CSDM spawn mode set to preset
+L 01/31/2019 - 02:46:52: -------- Mapchange to de_dust --------
+L 01/31/2019 - 02:46:52: [AMXX] Plugin "cso_magnumbolt_zp_extra.amxx" failed to load: Plugin uses an unknown function (name "zp_register_extra_item") - check your modules.ini.
+L 01/31/2019 - 02:46:52: [AMXX] Plugin "CSO_RailCannon_2014.amxx" failed to load: Plugin uses an unknown function (name "write_coord_f") - check your modules.ini.
+L 01/31/2019 - 02:46:52: [AMXX] Plugin "zp_extra_at4cs.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_survivor") - check your modules.ini.
+L 01/31/2019 - 02:46:53: [csdm_spawn_preset.amxx] Loaded 32 spawn points for map de_dust.
+L 01/31/2019 - 02:46:53: [csdm_main.amxx] CSDM spawn mode set to preset
+L 01/31/2019 - 02:46:57: [admin.amxx] Login: "yellowHearts<1><STEAM_0:0:787808286><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 01/31/2019 - 02:46:58: [admin.amxx] Login: "yellowHearts<1><STEAM_0:0:787808286><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 01/31/2019 - 02:48:43: -------- Mapchange to de_dust --------
+L 01/31/2019 - 02:48:43: [AMXX] Plugin "cso_magnumbolt_zp_extra.amxx" failed to load: Plugin uses an unknown function (name "zp_register_extra_item") - check your modules.ini.
+L 01/31/2019 - 02:48:43: [AMXX] Plugin "CSO_RailCannon_2014.amxx" failed to load: Plugin uses an unknown function (name "write_coord_f") - check your modules.ini.
+L 01/31/2019 - 02:48:43: [AMXX] Plugin "zp_extra_at4cs.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_survivor") - check your modules.ini.
+L 01/31/2019 - 02:48:44: [csdm_spawn_preset.amxx] Loaded 32 spawn points for map de_dust.
+L 01/31/2019 - 02:48:44: [csdm_main.amxx] CSDM spawn mode set to preset
+L 01/31/2019 - 02:53:57: -------- Mapchange to de_dust --------
+L 01/31/2019 - 02:53:57: [AMXX] Plugin "cso_magnumbolt_zp_extra.amxx" failed to load: Plugin uses an unknown function (name "zp_register_extra_item") - check your modules.ini.
+L 01/31/2019 - 02:53:57: [AMXX] Plugin "CSO_RailCannon_2014.amxx" failed to load: Plugin uses an unknown function (name "write_coord_f") - check your modules.ini.
+L 01/31/2019 - 02:53:57: [AMXX] Plugin "zp_extra_at4cs.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_survivor") - check your modules.ini.
+L 01/31/2019 - 02:53:58: [csdm_spawn_preset.amxx] Loaded 32 spawn points for map de_dust.
+L 01/31/2019 - 02:53:58: [csdm_main.amxx] CSDM spawn mode set to preset
+L 01/31/2019 - 02:53:59: [admin.amxx] Login: "yellowHearts<1><STEAM_0:0:787808286><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 01/31/2019 - 02:54:00: [admin.amxx] Login: "yellowHearts<1><STEAM_0:0:787808286><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 01/31/2019 - 02:54:44: -------- Mapchange to de_dust --------
+L 01/31/2019 - 02:54:44: [AMXX] Plugin "cso_magnumbolt_zp_extra.amxx" failed to load: Plugin uses an unknown function (name "zp_register_extra_item") - check your modules.ini.
+L 01/31/2019 - 02:54:44: [AMXX] Plugin "CSO_RailCannon_2014.amxx" failed to load: Plugin uses an unknown function (name "write_coord_f") - check your modules.ini.
+L 01/31/2019 - 02:54:44: [AMXX] Plugin "zp_extra_at4cs.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_survivor") - check your modules.ini.
+L 01/31/2019 - 02:54:45: [csdm_spawn_preset.amxx] Loaded 32 spawn points for map de_dust.
+L 01/31/2019 - 02:54:45: [csdm_main.amxx] CSDM spawn mode set to preset
+L 01/31/2019 - 02:54:46: [admin.amxx] Login: "yellowHearts<1><STEAM_0:0:787808286><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 01/31/2019 - 02:54:47: [admin.amxx] Login: "yellowHearts<1><STEAM_0:0:787808286><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 01/31/2019 - 02:58:04: -------- Mapchange to de_dust --------
+L 01/31/2019 - 02:58:04: [AMXX] Plugin "cso_magnumbolt_zp_extra.amxx" failed to load: Plugin uses an unknown function (name "zp_register_extra_item") - check your modules.ini.
+L 01/31/2019 - 02:58:04: [AMXX] Plugin "CSO_RailCannon_2014.amxx" failed to load: Plugin uses an unknown function (name "write_coord_f") - check your modules.ini.
+L 01/31/2019 - 02:58:04: [AMXX] Plugin "zp_extra_at4cs.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_survivor") - check your modules.ini.
+L 01/31/2019 - 02:58:04: [csdm_spawn_preset.amxx] Loaded 32 spawn points for map de_dust.
+L 01/31/2019 - 02:58:04: [csdm_main.amxx] CSDM spawn mode set to preset
+L 01/31/2019 - 02:58:04: [admin.amxx] Login: "yellowHearts<32><STEAM_0:0:787808286><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 01/31/2019 - 02:58:06: [admin.amxx] Login: "yellowHearts<32><STEAM_0:0:787808286><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 01/31/2019 - 03:10:01: -------- Mapchange to de_dust --------
+L 01/31/2019 - 03:10:01: [AMXX] Plugin "cso_magnumbolt_zp_extra.amxx" failed to load: Plugin uses an unknown function (name "zp_register_extra_item") - check your modules.ini.
+L 01/31/2019 - 03:10:01: [AMXX] Plugin "CSO_RailCannon_2014.amxx" failed to load: Plugin uses an unknown function (name "write_coord_f") - check your modules.ini.
+L 01/31/2019 - 03:10:01: [AMXX] Plugin "zp_extra_at4cs.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_survivor") - check your modules.ini.
+L 01/31/2019 - 03:10:02: [csdm_spawn_preset.amxx] Loaded 32 spawn points for map de_dust.
+L 01/31/2019 - 03:10:02: [csdm_main.amxx] CSDM spawn mode set to preset
+L 01/31/2019 - 03:10:02: [admin.amxx] Login: "yellowHearts<1><STEAM_0:0:787808286><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 01/31/2019 - 03:10:04: [admin.amxx] Login: "yellowHearts<1><STEAM_0:0:787808286><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 01/31/2019 - 03:13:30: -------- Mapchange to de_dust --------
+L 01/31/2019 - 03:13:30: [AMXX] Plugin "cso_magnumbolt_zp_extra.amxx" failed to load: Plugin uses an unknown function (name "zp_register_extra_item") - check your modules.ini.
+L 01/31/2019 - 03:13:30: [AMXX] Plugin "CSO_RailCannon_2014.amxx" failed to load: Plugin uses an unknown function (name "write_coord_f") - check your modules.ini.
+L 01/31/2019 - 03:13:30: [AMXX] Plugin "zp_extra_at4cs.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_survivor") - check your modules.ini.
+L 01/31/2019 - 03:13:31: [csdm_spawn_preset.amxx] Loaded 32 spawn points for map de_dust.
+L 01/31/2019 - 03:13:31: [csdm_main.amxx] CSDM spawn mode set to preset
+L 01/31/2019 - 03:13:34: [admin.amxx] Login: "yellowHearts<1><STEAM_0:0:787808286><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 01/31/2019 - 03:13:35: [admin.amxx] Login: "yellowHearts<1><STEAM_0:0:787808286><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 01/31/2019 - 03:19:34: -------- Mapchange to de_dust --------
+L 01/31/2019 - 03:19:34: [AMXX] Plugin "cso_magnumbolt_zp_extra.amxx" failed to load: Plugin uses an unknown function (name "zp_register_extra_item") - check your modules.ini.
+L 01/31/2019 - 03:19:34: [AMXX] Plugin "CSO_RailCannon_2014.amxx" failed to load: Plugin uses an unknown function (name "write_coord_f") - check your modules.ini.
+L 01/31/2019 - 03:19:34: [AMXX] Plugin "zp_extra_at4cs.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_survivor") - check your modules.ini.
+L 01/31/2019 - 03:19:35: [csdm_spawn_preset.amxx] Loaded 32 spawn points for map de_dust.
+L 01/31/2019 - 03:19:35: [csdm_main.amxx] CSDM spawn mode set to preset
+L 01/31/2019 - 03:19:38: [admin.amxx] Login: "yellowHearts<1><STEAM_0:0:787808286><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 01/31/2019 - 03:19:39: [admin.amxx] Login: "yellowHearts<1><STEAM_0:0:787808286><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 01/31/2019 - 03:20:20: -------- Mapchange to de_dust --------
+L 01/31/2019 - 03:20:21: [AMXX] Plugin "cso_magnumbolt_zp_extra.amxx" failed to load: Plugin uses an unknown function (name "zp_register_extra_item") - check your modules.ini.
+L 01/31/2019 - 03:20:21: [AMXX] Plugin "CSO_RailCannon_2014.amxx" failed to load: Plugin uses an unknown function (name "write_coord_f") - check your modules.ini.
+L 01/31/2019 - 03:20:21: [AMXX] Plugin "zp_extra_at4cs.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_survivor") - check your modules.ini.
+L 01/31/2019 - 03:20:22: [csdm_spawn_preset.amxx] Loaded 32 spawn points for map de_dust.
+L 01/31/2019 - 03:20:22: [csdm_main.amxx] CSDM spawn mode set to preset
+L 01/31/2019 - 03:20:52: -------- Mapchange to de_dust --------
+L 01/31/2019 - 03:20:52: [AMXX] Plugin "cso_magnumbolt_zp_extra.amxx" failed to load: Plugin uses an unknown function (name "zp_register_extra_item") - check your modules.ini.
+L 01/31/2019 - 03:20:52: [AMXX] Plugin "CSO_RailCannon_2014.amxx" failed to load: Plugin uses an unknown function (name "write_coord_f") - check your modules.ini.
+L 01/31/2019 - 03:20:52: [AMXX] Plugin "zp_extra_at4cs.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_survivor") - check your modules.ini.
+L 01/31/2019 - 03:20:53: [csdm_spawn_preset.amxx] Loaded 32 spawn points for map de_dust.
+L 01/31/2019 - 03:20:53: [csdm_main.amxx] CSDM spawn mode set to preset
+L 01/31/2019 - 03:20:53: [admin.amxx] Login: "yellowHearts<1><STEAM_0:0:787808286><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 01/31/2019 - 03:20:55: [admin.amxx] Login: "yellowHearts<1><STEAM_0:0:787808286><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 01/31/2019 - 03:25:22: -------- Mapchange to de_dust --------
+L 01/31/2019 - 03:25:22: [AMXX] Plugin "cso_magnumbolt_zp_extra.amxx" failed to load: Plugin uses an unknown function (name "zp_register_extra_item") - check your modules.ini.
+L 01/31/2019 - 03:25:22: [AMXX] Plugin "CSO_RailCannon_2014.amxx" failed to load: Plugin uses an unknown function (name "write_coord_f") - check your modules.ini.
+L 01/31/2019 - 03:25:22: [AMXX] Plugin "zp_extra_at4cs.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_survivor") - check your modules.ini.
+L 01/31/2019 - 03:25:23: [csdm_spawn_preset.amxx] Loaded 32 spawn points for map de_dust.
+L 01/31/2019 - 03:25:23: [csdm_main.amxx] CSDM spawn mode set to preset
+L 01/31/2019 - 03:25:56: -------- Mapchange to de_dust --------
+L 01/31/2019 - 03:25:56: [AMXX] Plugin "cso_magnumbolt_zp_extra.amxx" failed to load: Plugin uses an unknown function (name "zp_register_extra_item") - check your modules.ini.
+L 01/31/2019 - 03:25:56: [AMXX] Plugin "CSO_RailCannon_2014.amxx" failed to load: Plugin uses an unknown function (name "write_coord_f") - check your modules.ini.
+L 01/31/2019 - 03:25:56: [AMXX] Plugin "zp_extra_at4cs.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_survivor") - check your modules.ini.
+L 01/31/2019 - 03:25:57: [csdm_spawn_preset.amxx] Loaded 32 spawn points for map de_dust.
+L 01/31/2019 - 03:25:57: [csdm_main.amxx] CSDM spawn mode set to preset
+L 01/31/2019 - 03:25:57: [admin.amxx] Login: "yellowHearts<1><STEAM_0:0:787808286><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 01/31/2019 - 03:25:58: [admin.amxx] Login: "yellowHearts<1><STEAM_0:0:787808286><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 01/31/2019 - 03:39:20: -------- Mapchange to de_dust --------
+L 01/31/2019 - 03:39:20: [AMXX] Plugin "cso_magnumbolt_zp_extra.amxx" failed to load: Plugin uses an unknown function (name "zp_register_extra_item") - check your modules.ini.
+L 01/31/2019 - 03:39:21: [csdm_spawn_preset.amxx] Loaded 32 spawn points for map de_dust.
+L 01/31/2019 - 03:39:21: [csdm_main.amxx] CSDM spawn mode set to preset
+L 01/31/2019 - 03:40:38: -------- Mapchange to de_dust --------
+L 01/31/2019 - 03:40:38: [csdm_spawn_preset.amxx] Loaded 32 spawn points for map de_dust.
+L 01/31/2019 - 03:40:38: [csdm_main.amxx] CSDM spawn mode set to preset
+L 01/31/2019 - 03:40:39: [admin.amxx] Login: "yellowHearts<1><STEAM_0:0:787808286><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 01/31/2019 - 03:40:40: [admin.amxx] Login: "yellowHearts<1><STEAM_0:0:787808286><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 01/31/2019 - 03:49:08: -------- Mapchange to de_dust --------
+L 01/31/2019 - 03:49:08: [AMXX] Plugin "cso_magnumbolt_zp_extra.amxx" failed to load: Plugin uses an unknown function (name "zp_register_extra_item") - check your modules.ini.
+L 01/31/2019 - 03:49:10: [csdm_spawn_preset.amxx] Loaded 32 spawn points for map de_dust.
+L 01/31/2019 - 03:49:10: [csdm_main.amxx] CSDM spawn mode set to preset
+L 01/31/2019 - 03:49:10: [admin.amxx] Login: "yellowHearts<1><STEAM_0:0:787808286><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 01/31/2019 - 03:49:11: [admin.amxx] Login: "yellowHearts<1><STEAM_0:0:787808286><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 01/31/2019 - 04:01:49: -------- Mapchange to de_dust --------
+L 01/31/2019 - 04:01:49: [AMXX] Plugin "cso_magnumbolt_zp_extra.amxx" failed to load: Plugin uses an unknown function (name "zp_register_extra_item") - check your modules.ini.
+L 01/31/2019 - 04:01:49: [AMXX] Plugin "CSO_RailCannon_2014.amxx" failed to load: Plugin uses an unknown function (name "write_coord_f") - check your modules.ini.
+L 01/31/2019 - 04:01:50: [csdm_spawn_preset.amxx] Loaded 32 spawn points for map de_dust.
+L 01/31/2019 - 04:01:50: [csdm_main.amxx] CSDM spawn mode set to preset
+L 01/31/2019 - 04:01:51: [admin.amxx] Login: "yellowHearts<1><STEAM_0:0:787808286><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 01/31/2019 - 04:01:52: [admin.amxx] Login: "yellowHearts<1><STEAM_0:0:787808286><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 01/31/2019 - 04:27:51: -------- Mapchange to de_dust --------
+L 01/31/2019 - 04:27:51: [AMXX] Plugin "cso_magnumbolt_zp_extra.amxx" failed to load: Plugin uses an unknown function (name "zp_register_extra_item") - check your modules.ini.
+L 01/31/2019 - 04:27:52: [csdm_spawn_preset.amxx] Loaded 32 spawn points for map de_dust.
+L 01/31/2019 - 04:27:52: [csdm_main.amxx] CSDM spawn mode set to preset
+L 01/31/2019 - 04:28:53: -------- Mapchange to de_dust --------
+L 01/31/2019 - 04:28:53: [AMXX] Plugin "cso_magnumbolt_zp_extra.amxx" failed to load: Plugin uses an unknown function (name "zp_register_extra_item") - check your modules.ini.
+L 01/31/2019 - 04:28:54: [csdm_spawn_preset.amxx] Loaded 32 spawn points for map de_dust.
+L 01/31/2019 - 04:28:54: [csdm_main.amxx] CSDM spawn mode set to preset
+L 01/31/2019 - 04:28:54: [admin.amxx] Login: "yellowHearts<1><STEAM_0:0:787808286><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 01/31/2019 - 04:28:56: [admin.amxx] Login: "yellowHearts<1><STEAM_0:0:787808286><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 01/31/2019 - 04:33:55: -------- Mapchange to de_dust --------
+L 01/31/2019 - 04:33:55: [AMXX] Plugin "cso_magnumbolt_zp_extra.amxx" failed to load: Plugin uses an unknown function (name "zp_register_extra_item") - check your modules.ini.
+L 01/31/2019 - 04:33:56: [csdm_spawn_preset.amxx] Loaded 32 spawn points for map de_dust.
+L 01/31/2019 - 04:33:56: [csdm_main.amxx] CSDM spawn mode set to preset
+L 01/31/2019 - 04:33:56: [admin.amxx] Login: "yellowHearts<1><STEAM_0:0:787808286><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 01/31/2019 - 04:33:57: [admin.amxx] Login: "yellowHearts<1><STEAM_0:0:787808286><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 01/31/2019 - 05:46:25: -------- Mapchange to de_dust --------
+L 01/31/2019 - 05:46:25: [AMXX] Plugin "cso_magnumbolt_zp_extra.amxx" failed to load: Plugin uses an unknown function (name "zp_register_extra_item") - check your modules.ini.
+L 01/31/2019 - 05:46:26: [csdm_spawn_preset.amxx] Loaded 32 spawn points for map de_dust.
+L 01/31/2019 - 05:46:26: [csdm_main.amxx] CSDM spawn mode set to preset
+L 01/31/2019 - 05:46:27: [admin.amxx] Login: "yellowHearts<1><STEAM_0:0:787808286><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 01/31/2019 - 05:46:28: [admin.amxx] Login: "yellowHearts<1><STEAM_0:0:787808286><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 01/31/2019 - 05:50:17: -------- Mapchange to de_dust --------
+L 01/31/2019 - 05:50:17: [AMXX] Plugin "cso_magnumbolt_zp_extra.amxx" failed to load: Plugin uses an unknown function (name "zp_register_extra_item") - check your modules.ini.
+L 01/31/2019 - 05:50:18: [csdm_spawn_preset.amxx] Loaded 32 spawn points for map de_dust.
+L 01/31/2019 - 05:50:18: [csdm_main.amxx] CSDM spawn mode set to preset
+L 01/31/2019 - 05:50:19: [admin.amxx] Login: "yellowHearts<1><STEAM_0:0:787808286><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 01/31/2019 - 05:50:20: [admin.amxx] Login: "yellowHearts<1><STEAM_0:0:787808286><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 01/31/2019 - 05:59:54: -------- Mapchange to de_dust --------
+L 01/31/2019 - 05:59:54: [AMXX] Plugin "cso_magnumbolt_zp_extra.amxx" failed to load: Plugin uses an unknown function (name "zp_register_extra_item") - check your modules.ini.
+L 01/31/2019 - 05:59:55: [csdm_spawn_preset.amxx] Loaded 32 spawn points for map de_dust.
+L 01/31/2019 - 05:59:55: [csdm_main.amxx] CSDM spawn mode set to preset
+L 01/31/2019 - 05:59:55: [admin.amxx] Login: "yellowHearts<1><STEAM_0:0:787808286><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 01/31/2019 - 05:59:56: [admin.amxx] Login: "yellowHearts<1><STEAM_0:0:787808286><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 01/31/2019 - 06:11:53: -------- Mapchange to de_dust --------
+L 01/31/2019 - 06:11:53: [AMXX] Plugin "cso_magnumbolt_zp_extra.amxx" failed to load: Plugin uses an unknown function (name "zp_register_extra_item") - check your modules.ini.
+L 01/31/2019 - 06:11:54: [csdm_spawn_preset.amxx] Loaded 32 spawn points for map de_dust.
+L 01/31/2019 - 06:11:54: [csdm_main.amxx] CSDM spawn mode set to preset
+L 01/31/2019 - 06:11:54: [admin.amxx] Login: "yellowHearts<1><STEAM_0:0:787808286><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 01/31/2019 - 06:11:55: [admin.amxx] Login: "yellowHearts<1><STEAM_0:0:787808286><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 01/31/2019 - 15:29:55: -------- Mapchange to de_dust --------
+L 01/31/2019 - 15:29:55: [AMXX] Plugin "cso_magnumbolt_zp_extra.amxx" failed to load: Plugin uses an unknown function (name "zp_register_extra_item") - check your modules.ini.
+L 01/31/2019 - 15:29:56: [csdm_spawn_preset.amxx] Loaded 32 spawn points for map de_dust.
+L 01/31/2019 - 15:29:56: [csdm_main.amxx] CSDM spawn mode set to preset
+L 01/31/2019 - 15:29:57: [admin.amxx] Login: "yellowHearts<1><STEAM_0:0:787808286><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 01/31/2019 - 15:29:58: [admin.amxx] Login: "yellowHearts<1><STEAM_0:0:787808286><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 01/31/2019 - 15:47:54: -------- Mapchange to de_dust --------
+L 01/31/2019 - 15:47:54: [AMXX] Plugin "cso_magnumbolt_zp_extra.amxx" failed to load: Plugin uses an unknown function (name "zp_register_extra_item") - check your modules.ini.
+L 01/31/2019 - 15:47:55: [csdm_spawn_preset.amxx] Loaded 32 spawn points for map de_dust.
+L 01/31/2019 - 15:47:55: [csdm_main.amxx] CSDM spawn mode set to preset
+L 01/31/2019 - 15:47:55: [admin.amxx] Login: "yellowHearts<1><STEAM_0:0:787808286><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 01/31/2019 - 15:47:56: [admin.amxx] Login: "yellowHearts<1><STEAM_0:0:787808286><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 01/31/2019 - 16:06:38: -------- Mapchange to de_dust --------
+L 01/31/2019 - 16:06:38: [AMXX] Plugin "cso_magnumbolt_zp_extra.amxx" failed to load: Plugin uses an unknown function (name "zp_register_extra_item") - check your modules.ini.
+L 01/31/2019 - 16:06:39: [csdm_spawn_preset.amxx] Loaded 32 spawn points for map de_dust.
+L 01/31/2019 - 16:06:39: [csdm_main.amxx] CSDM spawn mode set to preset
+L 01/31/2019 - 16:06:40: [admin.amxx] Login: "yellowHearts<1><STEAM_0:0:787808286><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 01/31/2019 - 16:06:41: [admin.amxx] Login: "yellowHearts<1><STEAM_0:0:787808286><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 01/31/2019 - 17:50:54: -------- Mapchange to de_dust --------
+L 01/31/2019 - 17:50:54: [AMXX] Plugin "cso_magnumbolt_zp_extra.amxx" failed to load: Plugin uses an unknown function (name "zp_register_extra_item") - check your modules.ini.
+L 01/31/2019 - 17:50:55: [csdm_spawn_preset.amxx] Loaded 32 spawn points for map de_dust.
+L 01/31/2019 - 17:50:55: [csdm_main.amxx] CSDM spawn mode set to preset
+L 01/31/2019 - 17:50:56: [admin.amxx] Login: "yellowHearts<1><STEAM_0:0:787808286><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 01/31/2019 - 17:50:57: [admin.amxx] Login: "yellowHearts<1><STEAM_0:0:787808286><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 01/31/2019 - 17:54:51: -------- Mapchange to de_dust --------
+L 01/31/2019 - 17:54:51: [AMXX] Plugin "cso_magnumbolt_zp_extra.amxx" failed to load: Plugin uses an unknown function (name "zp_register_extra_item") - check your modules.ini.
+L 01/31/2019 - 17:54:52: [csdm_spawn_preset.amxx] Loaded 32 spawn points for map de_dust.
+L 01/31/2019 - 17:54:52: [csdm_main.amxx] CSDM spawn mode set to preset
+L 01/31/2019 - 17:54:52: [admin.amxx] Login: "yellowHearts<1><STEAM_0:0:787808286><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 01/31/2019 - 17:54:53: [admin.amxx] Login: "yellowHearts<1><STEAM_0:0:787808286><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 01/31/2019 - 18:30:33: -------- Mapchange to de_dust --------
+L 01/31/2019 - 18:30:33: [AMXX] Plugin "cso_magnumbolt_zp_extra.amxx" failed to load: Plugin uses an unknown function (name "zp_register_extra_item") - check your modules.ini.
+L 01/31/2019 - 18:30:33: [csdm_spawn_preset.amxx] Loaded 32 spawn points for map de_dust.
+L 01/31/2019 - 18:30:33: [csdm_main.amxx] CSDM spawn mode set to preset
+L 01/31/2019 - 18:30:34: [admin.amxx] Login: "yellowHearts<1><STEAM_0:0:787808286><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 01/31/2019 - 18:30:35: [admin.amxx] Login: "yellowHearts<1><STEAM_0:0:787808286><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")

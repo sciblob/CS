@@ -1,0 +1,48 @@
+L 02/03/2019 - 02:22:53: -------- Mapchange to cs_italy --------
+L 02/03/2019 - 02:22:53: [AMXX] Plugin "cso_magnumbolt_zp_extra.amxx" failed to load: Plugin uses an unknown function (name "zp_register_extra_item") - check your modules.ini.
+L 02/03/2019 - 02:22:54: [csdm_spawn_preset.amxx] Loaded 20 spawn points for map cs_italy.
+L 02/03/2019 - 02:22:54: [csdm_main.amxx] CSDM spawn mode set to preset
+L 02/03/2019 - 02:23:04: [admin.amxx] Login: "yellowHearts<1><STEAM_0:0:787808286><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 02/03/2019 - 02:23:05: [admin.amxx] Login: "yellowHearts<1><STEAM_0:0:787808286><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 02/03/2019 - 02:24:10: -------- Mapchange to de_inferno --------
+L 02/03/2019 - 02:24:10: [AMXX] Plugin "cso_magnumbolt_zp_extra.amxx" failed to load: Plugin uses an unknown function (name "zp_register_extra_item") - check your modules.ini.
+L 02/03/2019 - 02:24:11: [csdm_spawn_preset.amxx] Loaded 32 spawn points for map de_inferno.
+L 02/03/2019 - 02:24:11: [csdm_main.amxx] CSDM spawn mode set to preset
+L 02/03/2019 - 02:24:12: [admin.amxx] Login: "yellowHearts<1><STEAM_0:0:787808286><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 02/03/2019 - 02:24:13: [admin.amxx] Login: "yellowHearts<1><STEAM_0:0:787808286><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 02/03/2019 - 02:32:20: -------- Mapchange to de_inferno --------
+L 02/03/2019 - 02:32:20: [AMXX] Plugin "cso_magnumbolt_zp_extra.amxx" failed to load: Plugin uses an unknown function (name "zp_register_extra_item") - check your modules.ini.
+L 02/03/2019 - 02:32:20: [csdm_spawn_preset.amxx] Loaded 32 spawn points for map de_inferno.
+L 02/03/2019 - 02:32:20: [csdm_main.amxx] CSDM spawn mode set to preset
+L 02/03/2019 - 02:32:21: [admin.amxx] Login: "yellowHearts<2><STEAM_0:0:787808286><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 02/03/2019 - 02:32:22: [admin.amxx] Login: "yellowHearts<2><STEAM_0:0:787808286><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 02/03/2019 - 03:38:37: -------- Mapchange to de_dust2_extended --------
+L 02/03/2019 - 03:38:37: [AMXX] Plugin "cso_magnumbolt_zp_extra.amxx" failed to load: Plugin uses an unknown function (name "zp_register_extra_item") - check your modules.ini.
+L 02/03/2019 - 03:38:38: [csdm_spawn_preset.amxx] No spawn points file found (addons/amxmodx/configs\csdm\de_dust2_extended.spawns.cfg)
+L 02/03/2019 - 03:38:38: [csdm_main.amxx] CSDM spawn mode set to preset
+L 02/03/2019 - 03:38:39: [admin.amxx] Login: "yellowHearts<1><STEAM_0:0:787808286><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 02/03/2019 - 03:38:40: [admin.amxx] Login: "yellowHearts<1><STEAM_0:0:787808286><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 02/03/2019 - 03:39:26: -------- Mapchange to de_dust2_extended --------
+L 02/03/2019 - 03:39:26: [AMXX] Plugin "cso_magnumbolt_zp_extra.amxx" failed to load: Plugin uses an unknown function (name "zp_register_extra_item") - check your modules.ini.
+L 02/03/2019 - 03:39:26: [csdm_spawn_preset.amxx] No spawn points file found (addons/amxmodx/configs\csdm\de_dust2_extended.spawns.cfg)
+L 02/03/2019 - 03:39:26: [csdm_main.amxx] CSDM spawn mode set to preset
+L 02/03/2019 - 03:39:26: [admin.amxx] Login: "yellowHearts<3><STEAM_0:0:787808286><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 02/03/2019 - 03:39:28: [admin.amxx] Login: "yellowHearts<3><STEAM_0:0:787808286><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 02/03/2019 - 04:04:46: -------- Mapchange to de_dust2_extended --------
+L 02/03/2019 - 04:04:46: [AMXX] Plugin "cso_magnumbolt_zp_extra.amxx" failed to load: Plugin uses an unknown function (name "zp_register_extra_item") - check your modules.ini.
+L 02/03/2019 - 04:04:47: [csdm_spawn_preset.amxx] No spawn points file found (addons/amxmodx/configs\csdm\de_dust2_extended.spawns.cfg)
+L 02/03/2019 - 04:04:47: [csdm_main.amxx] CSDM spawn mode set to preset
+L 02/03/2019 - 04:04:48: [admin.amxx] Login: "yellowHearts<1><STEAM_0:0:787808286><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 02/03/2019 - 04:04:49: [admin.amxx] Login: "yellowHearts<1><STEAM_0:0:787808286><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 02/03/2019 - 04:06:36: -------- Mapchange to de_dust2_extended --------
+L 02/03/2019 - 04:06:36: [AMXX] Plugin "cso_magnumbolt_zp_extra.amxx" failed to load: Plugin uses an unknown function (name "zp_register_extra_item") - check your modules.ini.
+L 02/03/2019 - 04:06:37: [csdm_spawn_preset.amxx] No spawn points file found (addons/amxmodx/configs\csdm\de_dust2_extended.spawns.cfg)
+L 02/03/2019 - 04:06:37: [csdm_main.amxx] CSDM spawn mode set to preset
+L 02/03/2019 - 04:06:38: [admin.amxx] Login: "yellowHearts<1><STEAM_0:0:787808286><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 02/03/2019 - 04:06:39: [admin.amxx] Login: "yellowHearts<1><STEAM_0:0:787808286><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 02/03/2019 - 04:07:53: -------- Mapchange to de_dust2_extended --------
+L 02/03/2019 - 04:07:53: [AMXX] Plugin "cso_magnumbolt_zp_extra.amxx" failed to load: Plugin uses an unknown function (name "zp_register_extra_item") - check your modules.ini.
+L 02/03/2019 - 04:07:54: [csdm_spawn_preset.amxx] No spawn points file found (addons/amxmodx/configs\csdm\de_dust2_extended.spawns.cfg)
+L 02/03/2019 - 04:07:54: [csdm_main.amxx] CSDM spawn mode set to preset
+L 02/03/2019 - 04:07:55: [admin.amxx] Login: "yellowHearts<1><STEAM_0:0:787808286><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 02/03/2019 - 04:07:56: [admin.amxx] Login: "yellowHearts<1><STEAM_0:0:787808286><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")

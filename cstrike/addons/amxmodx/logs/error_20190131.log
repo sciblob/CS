@@ -1,0 +1,317 @@
+L 01/31/2019 - 03:19:38: Start of error session.
+L 01/31/2019 - 03:19:38: Info (map "de_dust") (file "addons/amxmodx/logs/error_20190131.log")
+L 01/31/2019 - 03:19:38: [FUN] Invalid player 1
+L 01/31/2019 - 03:19:38: [AMXX] Run time error 10 (plugin "VehicleMod.amxx") (native "get_user_maxspeed") - debug not enabled!
+L 01/31/2019 - 03:19:38: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/31/2019 - 03:19:39: [FUN] Invalid player 2
+L 01/31/2019 - 03:19:39: [AMXX] Run time error 10 (plugin "VehicleMod.amxx") (native "get_user_maxspeed") - debug not enabled!
+L 01/31/2019 - 03:19:39: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/31/2019 - 03:19:39: [FUN] Invalid player 3
+L 01/31/2019 - 03:19:39: [AMXX] Run time error 10 (plugin "VehicleMod.amxx") (native "get_user_maxspeed") - debug not enabled!
+L 01/31/2019 - 03:19:39: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/31/2019 - 03:19:40: [FUN] Invalid player 4
+L 01/31/2019 - 03:19:40: [AMXX] Run time error 10 (plugin "VehicleMod.amxx") (native "get_user_maxspeed") - debug not enabled!
+L 01/31/2019 - 03:19:40: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/31/2019 - 03:19:40: [FUN] Invalid player 5
+L 01/31/2019 - 03:19:40: [AMXX] Run time error 10 (plugin "VehicleMod.amxx") (native "get_user_maxspeed") - debug not enabled!
+L 01/31/2019 - 03:19:40: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/31/2019 - 03:19:40: [FUN] Invalid player 6
+L 01/31/2019 - 03:19:40: [AMXX] Run time error 10 (plugin "VehicleMod.amxx") (native "get_user_maxspeed") - debug not enabled!
+L 01/31/2019 - 03:19:40: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/31/2019 - 03:19:41: [FUN] Invalid player 7
+L 01/31/2019 - 03:19:41: [AMXX] Run time error 10 (plugin "VehicleMod.amxx") (native "get_user_maxspeed") - debug not enabled!
+L 01/31/2019 - 03:19:41: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/31/2019 - 03:19:41: [FUN] Invalid player 8
+L 01/31/2019 - 03:19:41: [AMXX] Run time error 10 (plugin "VehicleMod.amxx") (native "get_user_maxspeed") - debug not enabled!
+L 01/31/2019 - 03:19:41: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/31/2019 - 03:19:41: [FUN] Invalid player 9
+L 01/31/2019 - 03:19:41: [AMXX] Run time error 10 (plugin "VehicleMod.amxx") (native "get_user_maxspeed") - debug not enabled!
+L 01/31/2019 - 03:19:41: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/31/2019 - 03:19:42: [FUN] Invalid player 10
+L 01/31/2019 - 03:19:42: [AMXX] Run time error 10 (plugin "VehicleMod.amxx") (native "get_user_maxspeed") - debug not enabled!
+L 01/31/2019 - 03:19:42: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/31/2019 - 03:40:39: Start of error session.
+L 01/31/2019 - 03:40:39: Info (map "de_dust") (file "addons/amxmodx/logs/error_20190131.log")
+L 01/31/2019 - 03:40:39: [FUN] Invalid player 1
+L 01/31/2019 - 03:40:39: [AMXX] Run time error 10 (plugin "VehicleMod.amxx") (native "get_user_maxspeed") - debug not enabled!
+L 01/31/2019 - 03:40:39: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/31/2019 - 03:40:40: [FUN] Invalid player 2
+L 01/31/2019 - 03:40:40: [AMXX] Run time error 10 (plugin "VehicleMod.amxx") (native "get_user_maxspeed") - debug not enabled!
+L 01/31/2019 - 03:40:40: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/31/2019 - 03:40:40: [FUN] Invalid player 3
+L 01/31/2019 - 03:40:40: [AMXX] Run time error 10 (plugin "VehicleMod.amxx") (native "get_user_maxspeed") - debug not enabled!
+L 01/31/2019 - 03:40:40: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/31/2019 - 03:40:41: [FUN] Invalid player 4
+L 01/31/2019 - 03:40:41: [AMXX] Run time error 10 (plugin "VehicleMod.amxx") (native "get_user_maxspeed") - debug not enabled!
+L 01/31/2019 - 03:40:41: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/31/2019 - 03:40:41: [FUN] Invalid player 5
+L 01/31/2019 - 03:40:41: [AMXX] Run time error 10 (plugin "VehicleMod.amxx") (native "get_user_maxspeed") - debug not enabled!
+L 01/31/2019 - 03:40:41: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/31/2019 - 03:40:41: [FUN] Invalid player 6
+L 01/31/2019 - 03:40:41: [AMXX] Run time error 10 (plugin "VehicleMod.amxx") (native "get_user_maxspeed") - debug not enabled!
+L 01/31/2019 - 03:40:41: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/31/2019 - 03:40:42: [FUN] Invalid player 7
+L 01/31/2019 - 03:40:42: [AMXX] Run time error 10 (plugin "VehicleMod.amxx") (native "get_user_maxspeed") - debug not enabled!
+L 01/31/2019 - 03:40:42: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/31/2019 - 03:40:42: [FUN] Invalid player 8
+L 01/31/2019 - 03:40:42: [AMXX] Run time error 10 (plugin "VehicleMod.amxx") (native "get_user_maxspeed") - debug not enabled!
+L 01/31/2019 - 03:40:42: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/31/2019 - 03:40:42: [FUN] Invalid player 9
+L 01/31/2019 - 03:40:42: [AMXX] Run time error 10 (plugin "VehicleMod.amxx") (native "get_user_maxspeed") - debug not enabled!
+L 01/31/2019 - 03:40:42: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/31/2019 - 03:40:43: [FUN] Invalid player 10
+L 01/31/2019 - 03:40:43: [AMXX] Run time error 10 (plugin "VehicleMod.amxx") (native "get_user_maxspeed") - debug not enabled!
+L 01/31/2019 - 03:40:43: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/31/2019 - 03:40:43: [FUN] Invalid player 11
+L 01/31/2019 - 03:40:43: [AMXX] Run time error 10 (plugin "VehicleMod.amxx") (native "get_user_maxspeed") - debug not enabled!
+L 01/31/2019 - 03:40:43: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/31/2019 - 03:40:43: [FUN] Invalid player 12
+L 01/31/2019 - 03:40:43: [AMXX] Run time error 10 (plugin "VehicleMod.amxx") (native "get_user_maxspeed") - debug not enabled!
+L 01/31/2019 - 03:40:43: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/31/2019 - 03:40:44: [FUN] Invalid player 13
+L 01/31/2019 - 03:40:44: [AMXX] Run time error 10 (plugin "VehicleMod.amxx") (native "get_user_maxspeed") - debug not enabled!
+L 01/31/2019 - 03:40:44: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/31/2019 - 03:40:44: [FUN] Invalid player 14
+L 01/31/2019 - 03:40:44: [AMXX] Run time error 10 (plugin "VehicleMod.amxx") (native "get_user_maxspeed") - debug not enabled!
+L 01/31/2019 - 03:40:44: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/31/2019 - 03:40:44: [FUN] Invalid player 15
+L 01/31/2019 - 03:40:44: [AMXX] Run time error 10 (plugin "VehicleMod.amxx") (native "get_user_maxspeed") - debug not enabled!
+L 01/31/2019 - 03:40:44: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/31/2019 - 03:40:45: [FUN] Invalid player 16
+L 01/31/2019 - 03:40:45: [AMXX] Run time error 10 (plugin "VehicleMod.amxx") (native "get_user_maxspeed") - debug not enabled!
+L 01/31/2019 - 03:40:45: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/31/2019 - 03:40:45: [FUN] Invalid player 17
+L 01/31/2019 - 03:40:45: [AMXX] Run time error 10 (plugin "VehicleMod.amxx") (native "get_user_maxspeed") - debug not enabled!
+L 01/31/2019 - 03:40:45: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/31/2019 - 03:40:45: [FUN] Invalid player 18
+L 01/31/2019 - 03:40:45: [AMXX] Run time error 10 (plugin "VehicleMod.amxx") (native "get_user_maxspeed") - debug not enabled!
+L 01/31/2019 - 03:40:45: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/31/2019 - 03:40:46: [FUN] Invalid player 19
+L 01/31/2019 - 03:40:46: [AMXX] Run time error 10 (plugin "VehicleMod.amxx") (native "get_user_maxspeed") - debug not enabled!
+L 01/31/2019 - 03:40:46: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/31/2019 - 03:40:46: [FUN] Invalid player 20
+L 01/31/2019 - 03:40:46: [AMXX] Run time error 10 (plugin "VehicleMod.amxx") (native "get_user_maxspeed") - debug not enabled!
+L 01/31/2019 - 03:40:46: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/31/2019 - 03:40:46: [FUN] Invalid player 21
+L 01/31/2019 - 03:40:46: [AMXX] Run time error 10 (plugin "VehicleMod.amxx") (native "get_user_maxspeed") - debug not enabled!
+L 01/31/2019 - 03:40:46: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/31/2019 - 03:40:46: [FUN] Invalid player 22
+L 01/31/2019 - 03:40:46: [AMXX] Run time error 10 (plugin "VehicleMod.amxx") (native "get_user_maxspeed") - debug not enabled!
+L 01/31/2019 - 03:40:46: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/31/2019 - 03:40:47: [FUN] Invalid player 23
+L 01/31/2019 - 03:40:47: [AMXX] Run time error 10 (plugin "VehicleMod.amxx") (native "get_user_maxspeed") - debug not enabled!
+L 01/31/2019 - 03:40:47: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/31/2019 - 03:40:47: [FUN] Invalid player 24
+L 01/31/2019 - 03:40:47: [AMXX] Run time error 10 (plugin "VehicleMod.amxx") (native "get_user_maxspeed") - debug not enabled!
+L 01/31/2019 - 03:40:47: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/31/2019 - 03:40:47: [FUN] Invalid player 25
+L 01/31/2019 - 03:40:47: [AMXX] Run time error 10 (plugin "VehicleMod.amxx") (native "get_user_maxspeed") - debug not enabled!
+L 01/31/2019 - 03:40:47: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/31/2019 - 03:40:48: [FUN] Invalid player 26
+L 01/31/2019 - 03:40:48: [AMXX] Run time error 10 (plugin "VehicleMod.amxx") (native "get_user_maxspeed") - debug not enabled!
+L 01/31/2019 - 03:40:48: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/31/2019 - 03:40:48: [FUN] Invalid player 27
+L 01/31/2019 - 03:40:48: [AMXX] Run time error 10 (plugin "VehicleMod.amxx") (native "get_user_maxspeed") - debug not enabled!
+L 01/31/2019 - 03:40:48: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/31/2019 - 03:40:48: [FUN] Invalid player 28
+L 01/31/2019 - 03:40:48: [AMXX] Run time error 10 (plugin "VehicleMod.amxx") (native "get_user_maxspeed") - debug not enabled!
+L 01/31/2019 - 03:40:48: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/31/2019 - 03:40:49: [FUN] Invalid player 29
+L 01/31/2019 - 03:40:49: [AMXX] Run time error 10 (plugin "VehicleMod.amxx") (native "get_user_maxspeed") - debug not enabled!
+L 01/31/2019 - 03:40:49: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/31/2019 - 03:40:49: [FUN] Invalid player 30
+L 01/31/2019 - 03:40:49: [AMXX] Run time error 10 (plugin "VehicleMod.amxx") (native "get_user_maxspeed") - debug not enabled!
+L 01/31/2019 - 03:40:49: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/31/2019 - 03:40:49: [FUN] Invalid player 31
+L 01/31/2019 - 03:40:49: [AMXX] Run time error 10 (plugin "VehicleMod.amxx") (native "get_user_maxspeed") - debug not enabled!
+L 01/31/2019 - 03:40:49: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/31/2019 - 05:59:55: Start of error session.
+L 01/31/2019 - 05:59:55: Info (map "de_dust") (file "addons/amxmodx/logs/error_20190131.log")
+L 01/31/2019 - 05:59:55: [FUN] Invalid player 1
+L 01/31/2019 - 05:59:55: [AMXX] Run time error 10 (plugin "VehicleMod.amxx") (native "get_user_maxspeed") - debug not enabled!
+L 01/31/2019 - 05:59:55: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/31/2019 - 05:59:57: [FUN] Invalid player 2
+L 01/31/2019 - 05:59:57: [AMXX] Run time error 10 (plugin "VehicleMod.amxx") (native "get_user_maxspeed") - debug not enabled!
+L 01/31/2019 - 05:59:57: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/31/2019 - 05:59:57: [FUN] Invalid player 3
+L 01/31/2019 - 05:59:57: [AMXX] Run time error 10 (plugin "VehicleMod.amxx") (native "get_user_maxspeed") - debug not enabled!
+L 01/31/2019 - 05:59:57: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/31/2019 - 05:59:57: [FUN] Invalid player 4
+L 01/31/2019 - 05:59:57: [AMXX] Run time error 10 (plugin "VehicleMod.amxx") (native "get_user_maxspeed") - debug not enabled!
+L 01/31/2019 - 05:59:57: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/31/2019 - 05:59:58: [FUN] Invalid player 5
+L 01/31/2019 - 05:59:58: [AMXX] Run time error 10 (plugin "VehicleMod.amxx") (native "get_user_maxspeed") - debug not enabled!
+L 01/31/2019 - 05:59:58: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/31/2019 - 05:59:58: [FUN] Invalid player 6
+L 01/31/2019 - 05:59:58: [AMXX] Run time error 10 (plugin "VehicleMod.amxx") (native "get_user_maxspeed") - debug not enabled!
+L 01/31/2019 - 05:59:58: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/31/2019 - 05:59:58: [FUN] Invalid player 7
+L 01/31/2019 - 05:59:58: [AMXX] Run time error 10 (plugin "VehicleMod.amxx") (native "get_user_maxspeed") - debug not enabled!
+L 01/31/2019 - 05:59:58: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/31/2019 - 05:59:59: [FUN] Invalid player 8
+L 01/31/2019 - 05:59:59: [AMXX] Run time error 10 (plugin "VehicleMod.amxx") (native "get_user_maxspeed") - debug not enabled!
+L 01/31/2019 - 05:59:59: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/31/2019 - 05:59:59: [FUN] Invalid player 9
+L 01/31/2019 - 05:59:59: [AMXX] Run time error 10 (plugin "VehicleMod.amxx") (native "get_user_maxspeed") - debug not enabled!
+L 01/31/2019 - 05:59:59: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/31/2019 - 05:59:59: [FUN] Invalid player 10
+L 01/31/2019 - 05:59:59: [AMXX] Run time error 10 (plugin "VehicleMod.amxx") (native "get_user_maxspeed") - debug not enabled!
+L 01/31/2019 - 05:59:59: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/31/2019 - 05:59:59: [FUN] Invalid player 11
+L 01/31/2019 - 05:59:59: [AMXX] Run time error 10 (plugin "VehicleMod.amxx") (native "get_user_maxspeed") - debug not enabled!
+L 01/31/2019 - 05:59:59: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/31/2019 - 06:00:00: [FUN] Invalid player 12
+L 01/31/2019 - 06:00:00: [AMXX] Run time error 10 (plugin "VehicleMod.amxx") (native "get_user_maxspeed") - debug not enabled!
+L 01/31/2019 - 06:00:00: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/31/2019 - 06:00:00: [FUN] Invalid player 13
+L 01/31/2019 - 06:00:00: [AMXX] Run time error 10 (plugin "VehicleMod.amxx") (native "get_user_maxspeed") - debug not enabled!
+L 01/31/2019 - 06:00:00: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/31/2019 - 06:00:00: [FUN] Invalid player 14
+L 01/31/2019 - 06:00:00: [AMXX] Run time error 10 (plugin "VehicleMod.amxx") (native "get_user_maxspeed") - debug not enabled!
+L 01/31/2019 - 06:00:00: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/31/2019 - 06:00:01: [FUN] Invalid player 15
+L 01/31/2019 - 06:00:01: [AMXX] Run time error 10 (plugin "VehicleMod.amxx") (native "get_user_maxspeed") - debug not enabled!
+L 01/31/2019 - 06:00:01: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/31/2019 - 06:00:01: [FUN] Invalid player 16
+L 01/31/2019 - 06:00:01: [AMXX] Run time error 10 (plugin "VehicleMod.amxx") (native "get_user_maxspeed") - debug not enabled!
+L 01/31/2019 - 06:00:01: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/31/2019 - 06:00:01: [FUN] Invalid player 17
+L 01/31/2019 - 06:00:01: [AMXX] Run time error 10 (plugin "VehicleMod.amxx") (native "get_user_maxspeed") - debug not enabled!
+L 01/31/2019 - 06:00:01: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/31/2019 - 06:00:02: [FUN] Invalid player 18
+L 01/31/2019 - 06:00:02: [AMXX] Run time error 10 (plugin "VehicleMod.amxx") (native "get_user_maxspeed") - debug not enabled!
+L 01/31/2019 - 06:00:02: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/31/2019 - 06:00:02: [FUN] Invalid player 19
+L 01/31/2019 - 06:00:02: [AMXX] Run time error 10 (plugin "VehicleMod.amxx") (native "get_user_maxspeed") - debug not enabled!
+L 01/31/2019 - 06:00:02: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/31/2019 - 06:00:02: [FUN] Invalid player 20
+L 01/31/2019 - 06:00:02: [AMXX] Run time error 10 (plugin "VehicleMod.amxx") (native "get_user_maxspeed") - debug not enabled!
+L 01/31/2019 - 06:00:02: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/31/2019 - 06:00:03: [FUN] Invalid player 21
+L 01/31/2019 - 06:00:03: [AMXX] Run time error 10 (plugin "VehicleMod.amxx") (native "get_user_maxspeed") - debug not enabled!
+L 01/31/2019 - 06:00:03: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/31/2019 - 06:00:03: [FUN] Invalid player 22
+L 01/31/2019 - 06:00:03: [AMXX] Run time error 10 (plugin "VehicleMod.amxx") (native "get_user_maxspeed") - debug not enabled!
+L 01/31/2019 - 06:00:03: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/31/2019 - 06:00:03: [FUN] Invalid player 23
+L 01/31/2019 - 06:00:03: [AMXX] Run time error 10 (plugin "VehicleMod.amxx") (native "get_user_maxspeed") - debug not enabled!
+L 01/31/2019 - 06:00:03: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/31/2019 - 06:00:04: [FUN] Invalid player 24
+L 01/31/2019 - 06:00:04: [AMXX] Run time error 10 (plugin "VehicleMod.amxx") (native "get_user_maxspeed") - debug not enabled!
+L 01/31/2019 - 06:00:04: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/31/2019 - 06:00:04: [FUN] Invalid player 25
+L 01/31/2019 - 06:00:04: [AMXX] Run time error 10 (plugin "VehicleMod.amxx") (native "get_user_maxspeed") - debug not enabled!
+L 01/31/2019 - 06:00:04: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/31/2019 - 06:00:04: [FUN] Invalid player 26
+L 01/31/2019 - 06:00:04: [AMXX] Run time error 10 (plugin "VehicleMod.amxx") (native "get_user_maxspeed") - debug not enabled!
+L 01/31/2019 - 06:00:04: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/31/2019 - 06:00:05: [FUN] Invalid player 27
+L 01/31/2019 - 06:00:05: [AMXX] Run time error 10 (plugin "VehicleMod.amxx") (native "get_user_maxspeed") - debug not enabled!
+L 01/31/2019 - 06:00:05: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/31/2019 - 06:00:05: [FUN] Invalid player 28
+L 01/31/2019 - 06:00:05: [AMXX] Run time error 10 (plugin "VehicleMod.amxx") (native "get_user_maxspeed") - debug not enabled!
+L 01/31/2019 - 06:00:05: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/31/2019 - 06:00:05: [FUN] Invalid player 29
+L 01/31/2019 - 06:00:05: [AMXX] Run time error 10 (plugin "VehicleMod.amxx") (native "get_user_maxspeed") - debug not enabled!
+L 01/31/2019 - 06:00:05: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/31/2019 - 06:00:05: [FUN] Invalid player 30
+L 01/31/2019 - 06:00:05: [AMXX] Run time error 10 (plugin "VehicleMod.amxx") (native "get_user_maxspeed") - debug not enabled!
+L 01/31/2019 - 06:00:05: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/31/2019 - 06:00:06: [FUN] Invalid player 31
+L 01/31/2019 - 06:00:06: [AMXX] Run time error 10 (plugin "VehicleMod.amxx") (native "get_user_maxspeed") - debug not enabled!
+L 01/31/2019 - 06:00:06: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/31/2019 - 06:11:54: Start of error session.
+L 01/31/2019 - 06:11:54: Info (map "de_dust") (file "addons/amxmodx/logs/error_20190131.log")
+L 01/31/2019 - 06:11:54: [FUN] Invalid player 1
+L 01/31/2019 - 06:11:54: [AMXX] Run time error 10 (plugin "VehicleMod.amxx") (native "get_user_maxspeed") - debug not enabled!
+L 01/31/2019 - 06:11:54: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/31/2019 - 06:11:56: [FUN] Invalid player 2
+L 01/31/2019 - 06:11:56: [AMXX] Run time error 10 (plugin "VehicleMod.amxx") (native "get_user_maxspeed") - debug not enabled!
+L 01/31/2019 - 06:11:56: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/31/2019 - 06:11:56: [FUN] Invalid player 3
+L 01/31/2019 - 06:11:56: [AMXX] Run time error 10 (plugin "VehicleMod.amxx") (native "get_user_maxspeed") - debug not enabled!
+L 01/31/2019 - 06:11:56: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/31/2019 - 06:11:56: [FUN] Invalid player 4
+L 01/31/2019 - 06:11:56: [AMXX] Run time error 10 (plugin "VehicleMod.amxx") (native "get_user_maxspeed") - debug not enabled!
+L 01/31/2019 - 06:11:56: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/31/2019 - 06:11:57: [FUN] Invalid player 5
+L 01/31/2019 - 06:11:57: [AMXX] Run time error 10 (plugin "VehicleMod.amxx") (native "get_user_maxspeed") - debug not enabled!
+L 01/31/2019 - 06:11:57: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/31/2019 - 06:11:57: [FUN] Invalid player 6
+L 01/31/2019 - 06:11:57: [AMXX] Run time error 10 (plugin "VehicleMod.amxx") (native "get_user_maxspeed") - debug not enabled!
+L 01/31/2019 - 06:11:57: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/31/2019 - 06:11:57: [FUN] Invalid player 7
+L 01/31/2019 - 06:11:57: [AMXX] Run time error 10 (plugin "VehicleMod.amxx") (native "get_user_maxspeed") - debug not enabled!
+L 01/31/2019 - 06:11:57: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/31/2019 - 06:11:57: [FUN] Invalid player 8
+L 01/31/2019 - 06:11:57: [AMXX] Run time error 10 (plugin "VehicleMod.amxx") (native "get_user_maxspeed") - debug not enabled!
+L 01/31/2019 - 06:11:57: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/31/2019 - 06:11:58: [FUN] Invalid player 9
+L 01/31/2019 - 06:11:58: [AMXX] Run time error 10 (plugin "VehicleMod.amxx") (native "get_user_maxspeed") - debug not enabled!
+L 01/31/2019 - 06:11:58: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/31/2019 - 06:11:58: [FUN] Invalid player 10
+L 01/31/2019 - 06:11:58: [AMXX] Run time error 10 (plugin "VehicleMod.amxx") (native "get_user_maxspeed") - debug not enabled!
+L 01/31/2019 - 06:11:58: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/31/2019 - 06:11:58: [FUN] Invalid player 11
+L 01/31/2019 - 06:11:58: [AMXX] Run time error 10 (plugin "VehicleMod.amxx") (native "get_user_maxspeed") - debug not enabled!
+L 01/31/2019 - 06:11:58: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/31/2019 - 06:11:59: [FUN] Invalid player 12
+L 01/31/2019 - 06:11:59: [AMXX] Run time error 10 (plugin "VehicleMod.amxx") (native "get_user_maxspeed") - debug not enabled!
+L 01/31/2019 - 06:11:59: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/31/2019 - 06:11:59: [FUN] Invalid player 13
+L 01/31/2019 - 06:11:59: [AMXX] Run time error 10 (plugin "VehicleMod.amxx") (native "get_user_maxspeed") - debug not enabled!
+L 01/31/2019 - 06:11:59: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/31/2019 - 06:11:59: [FUN] Invalid player 14
+L 01/31/2019 - 06:11:59: [AMXX] Run time error 10 (plugin "VehicleMod.amxx") (native "get_user_maxspeed") - debug not enabled!
+L 01/31/2019 - 06:11:59: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/31/2019 - 06:12:00: [FUN] Invalid player 15
+L 01/31/2019 - 06:12:00: [AMXX] Run time error 10 (plugin "VehicleMod.amxx") (native "get_user_maxspeed") - debug not enabled!
+L 01/31/2019 - 06:12:00: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/31/2019 - 06:12:00: [FUN] Invalid player 16
+L 01/31/2019 - 06:12:00: [AMXX] Run time error 10 (plugin "VehicleMod.amxx") (native "get_user_maxspeed") - debug not enabled!
+L 01/31/2019 - 06:12:00: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/31/2019 - 06:12:00: [FUN] Invalid player 17
+L 01/31/2019 - 06:12:00: [AMXX] Run time error 10 (plugin "VehicleMod.amxx") (native "get_user_maxspeed") - debug not enabled!
+L 01/31/2019 - 06:12:00: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/31/2019 - 06:12:01: [FUN] Invalid player 18
+L 01/31/2019 - 06:12:01: [AMXX] Run time error 10 (plugin "VehicleMod.amxx") (native "get_user_maxspeed") - debug not enabled!
+L 01/31/2019 - 06:12:01: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/31/2019 - 06:12:01: [FUN] Invalid player 19
+L 01/31/2019 - 06:12:01: [AMXX] Run time error 10 (plugin "VehicleMod.amxx") (native "get_user_maxspeed") - debug not enabled!
+L 01/31/2019 - 06:12:01: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/31/2019 - 06:12:01: [FUN] Invalid player 20
+L 01/31/2019 - 06:12:01: [AMXX] Run time error 10 (plugin "VehicleMod.amxx") (native "get_user_maxspeed") - debug not enabled!
+L 01/31/2019 - 06:12:01: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/31/2019 - 06:12:02: [FUN] Invalid player 21
+L 01/31/2019 - 06:12:02: [AMXX] Run time error 10 (plugin "VehicleMod.amxx") (native "get_user_maxspeed") - debug not enabled!
+L 01/31/2019 - 06:12:02: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/31/2019 - 06:12:02: [FUN] Invalid player 22
+L 01/31/2019 - 06:12:02: [AMXX] Run time error 10 (plugin "VehicleMod.amxx") (native "get_user_maxspeed") - debug not enabled!
+L 01/31/2019 - 06:12:02: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/31/2019 - 06:12:02: [FUN] Invalid player 23
+L 01/31/2019 - 06:12:02: [AMXX] Run time error 10 (plugin "VehicleMod.amxx") (native "get_user_maxspeed") - debug not enabled!
+L 01/31/2019 - 06:12:02: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/31/2019 - 06:12:03: [FUN] Invalid player 24
+L 01/31/2019 - 06:12:03: [AMXX] Run time error 10 (plugin "VehicleMod.amxx") (native "get_user_maxspeed") - debug not enabled!
+L 01/31/2019 - 06:12:03: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/31/2019 - 06:12:03: [FUN] Invalid player 25
+L 01/31/2019 - 06:12:03: [AMXX] Run time error 10 (plugin "VehicleMod.amxx") (native "get_user_maxspeed") - debug not enabled!
+L 01/31/2019 - 06:12:03: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/31/2019 - 06:12:03: [FUN] Invalid player 26
+L 01/31/2019 - 06:12:03: [AMXX] Run time error 10 (plugin "VehicleMod.amxx") (native "get_user_maxspeed") - debug not enabled!
+L 01/31/2019 - 06:12:03: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/31/2019 - 06:12:03: [FUN] Invalid player 27
+L 01/31/2019 - 06:12:03: [AMXX] Run time error 10 (plugin "VehicleMod.amxx") (native "get_user_maxspeed") - debug not enabled!
+L 01/31/2019 - 06:12:03: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/31/2019 - 06:12:04: [FUN] Invalid player 28
+L 01/31/2019 - 06:12:04: [AMXX] Run time error 10 (plugin "VehicleMod.amxx") (native "get_user_maxspeed") - debug not enabled!
+L 01/31/2019 - 06:12:04: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/31/2019 - 06:12:04: [FUN] Invalid player 29
+L 01/31/2019 - 06:12:04: [AMXX] Run time error 10 (plugin "VehicleMod.amxx") (native "get_user_maxspeed") - debug not enabled!
+L 01/31/2019 - 06:12:04: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/31/2019 - 06:12:04: [FUN] Invalid player 30
+L 01/31/2019 - 06:12:04: [AMXX] Run time error 10 (plugin "VehicleMod.amxx") (native "get_user_maxspeed") - debug not enabled!
+L 01/31/2019 - 06:12:04: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/31/2019 - 06:12:05: [FUN] Invalid player 31
+L 01/31/2019 - 06:12:05: [AMXX] Run time error 10 (plugin "VehicleMod.amxx") (native "get_user_maxspeed") - debug not enabled!
+L 01/31/2019 - 06:12:05: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
