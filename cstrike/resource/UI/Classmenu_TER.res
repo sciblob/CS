@@ -166,6 +166,27 @@
 		"command"		"joinclass 4"
 		"labelText"		"#Cstrike_Guerilla"
 	}
+ 
+        "tommy"
+	{
+		"ControlName"		"MouseOverPanelButton"
+		"fieldName"		"tommy"
+		"xpos"			"0"
+		"ypos"			"244"
+		"wide"			"148"
+		"tall"			"20"
+		"autoResize"		"0"
+		"pinCorner"		"2"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"		"0"
+		"labelText"		""
+		"textAlignment"		"west"
+		"dulltext"		"0"
+		"brighttext"		"0"
+		"command"		"joinclass 5"
+		"labelText"		"#Cstrike_Tommy"	
+	}
 
 	"militia"
 	{
@@ -184,7 +205,7 @@
 		"textAlignment"		"west"
 		"dulltext"		"0"
 		"brighttext"		"0"
-		"command"		"joinclass 5"
+		"command"		"joinclass 7"
 		"labelText"		"#Cstrike_Militia"
 	}
 

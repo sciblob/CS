@@ -1,0 +1,8 @@
+L 02/11/2019 - 01:02:45: -------- Mapchange to de_dust2 --------
+L 02/11/2019 - 01:02:45: [AMXX] Plugin "cso_magnumbolt_zp_extra.amxx" failed to load: Plugin uses an unknown function (name "zp_register_extra_item") - check your modules.ini.
+L 02/11/2019 - 01:02:47: [admin.amxx] Login: "yellowHearts<1><STEAM_0:0:787808286><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 02/11/2019 - 01:02:48: [admin.amxx] Login: "yellowHearts<1><STEAM_0:0:787808286><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 02/11/2019 - 01:17:06: -------- Mapchange to de_dust2 --------
+L 02/11/2019 - 01:17:06: [AMXX] Plugin "cso_magnumbolt_zp_extra.amxx" failed to load: Plugin uses an unknown function (name "zp_register_extra_item") - check your modules.ini.
+L 02/11/2019 - 01:17:08: [admin.amxx] Login: "yellowHearts<1><STEAM_0:0:787808286><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 02/11/2019 - 01:17:09: [admin.amxx] Login: "yellowHearts<1><STEAM_0:0:787808286><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
